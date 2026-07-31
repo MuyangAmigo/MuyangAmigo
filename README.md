@@ -39,9 +39,9 @@ I build developer products from idea to launch, with a focus on tools for develo
 
 ## 🌐 Featured Work
 
-- [🚀 AI Toolkit for VS Code](https://victorious-desert-01d544110.2.azurestaticapps.net/en/work/ai-toolkit)
-- [🧩 Microsoft 365 Agents Toolkit](https://victorious-desert-01d544110.2.azurestaticapps.net/en/work/m365-agents-toolkit)
-- [🏠 Personal website and portfolio](https://victorious-desert-01d544110.2.azurestaticapps.net/en)
+- [🚀 AI Toolkit for VS Code](https://muyangamigo.github.io/junjieweb/en/work/ai-toolkit)
+- [🧩 Microsoft 365 Agents Toolkit](https://muyangamigo.github.io/junjieweb/en/work/m365-agents-toolkit)
+- [🏠 Personal website and portfolio](https://muyangamigo.github.io/junjieweb/en)
 
 ## ✍️ Writing
 
